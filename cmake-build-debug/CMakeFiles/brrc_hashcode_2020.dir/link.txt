@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/brrc_hashcode_2020.dir/main.cpp.o CMakeFiles/brrc_hashcode_2020.dir/Test.cpp.o  -o brrc_hashcode_2020 

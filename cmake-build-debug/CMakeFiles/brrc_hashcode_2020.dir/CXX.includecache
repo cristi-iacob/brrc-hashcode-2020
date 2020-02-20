@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cristi/coding/brrc-hashcode-2020/Test.cpp
+Test.h
+/home/cristi/coding/brrc-hashcode-2020/Test.h
+
+/home/cristi/coding/brrc-hashcode-2020/Test.h
+iostream
+-
+
+/home/cristi/coding/brrc-hashcode-2020/main.cpp
+iostream
+-
+Test.h
+/home/cristi/coding/brrc-hashcode-2020/Test.h
+
